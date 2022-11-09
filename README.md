@@ -1,2 +1,0 @@
-# Boopedia
-All things boo
